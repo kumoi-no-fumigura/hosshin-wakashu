@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hosshin-wakashu",
  "yomi": "ほっしんわかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "釈教歌集",
+  "era": "寛弘9年（1012）",
+  "author": "選子内親王",
+  "desc": "大斎院選子内親王が経典の句を題に詠んだ釈教歌集。漢文序に、四弘誓願から普賢十大願まで55首を一巻にまとめ「発心和歌集」と名づけたとある。"
+ },
  "editions": [
   {
    "pid": "1879545",
