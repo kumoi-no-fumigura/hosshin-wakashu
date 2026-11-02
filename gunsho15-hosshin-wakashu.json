@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 3,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho15-hosshin-wakashu-0001",
@@ -730,6 +733,7 @@
   "poems": 54,
   "editions": 1,
   "updated": "2026-11-02",
-  "updated_at": "2026-11-02T17:04:42+09:00"
+  "updated_at": "2026-11-02T17:04:42+09:00",
+  "yaku": 3
  }
 }
